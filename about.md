@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Been doing lots of different IT tech things since 1993. I've been working with the Microsoft stack for most of that time.
+I'm interested in changing practices and tools to help teams deliver more reliably.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I heard about Keto from [2 Keto Dudes](http://www.2ketodudes.com) in Sept 2016 and haven't looked back. 
+
+Current Reading List
+Reading The Case Against Sugar by Gary Taubes - so that's how we got here...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[brian@princefamily.org](mailto:brian@princefamily.org)

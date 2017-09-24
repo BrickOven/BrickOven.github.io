@@ -1,10 +1,12 @@
 ---
 layout: post
-title: I'm up and running!
+title: Getting things going
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I haven't blogged in a long time so let's see how this goes. This is also my first thing posted on GitHub. Gotta figure these things out. Loved [Sarah Ford's blog](https://saraford.net) posting every day while she was learning Git.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Thanks to the folks who created GitHub and Jekyll for making this easy.
+
+[Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
